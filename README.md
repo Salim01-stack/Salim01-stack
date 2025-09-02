@@ -5,7 +5,6 @@ I graduated in Computer Science and Engineering (CSE) from North South Universit
 
 Skills:  HTML/CSS, Python, Java, C/C++, SQL,
 
-- 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning  Javascript 
 - 👯 I’m looking to collaborate on github 
 - 💬 Ask me about App Developer 
