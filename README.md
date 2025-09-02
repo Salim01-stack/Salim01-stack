@@ -1,4 +1,4 @@
-![](https://media.licdn.com/dms/image/v2/D4E16AQFGxPYXbpjpmA/profile-displaybackgroundimage-shrink_350_1400/B4EZkLY3ziHEAY-/0/1756832697192?e=1759968000&v=beta&t=hDKPpoPshNtW4YogPiPV9psiQFmPxquCBaC2X6UCaKA)
+![](https://media.licdn.com/dms/image/v2/D4E16AQG-mV_HZjjWmg/profile-displaybackgroundimage-shrink_350_1400/B4EZkLZ83wIsAk-/0/1756832981199?e=1759968000&v=beta&t=hmZ-GdLESc8WLfXzXdXWBRYDjZxhwn4gPdZkfJaH0ek)
 
 I graduated in Computer Science and Engineering (CSE) from North South University (NSU), where I built a strong foundation in computing and problem-solving. My passion lies in Artificial Intelligence and its transformative potential across industries. This space showcases a collection of my projects, research, and contributions, reflecting my continuous journey of learning, building, and exploring the ever-evolving world of technology and innovation.
 
